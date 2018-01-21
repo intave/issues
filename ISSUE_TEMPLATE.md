@@ -1,4 +1,4 @@
-##Issue Report
+Issue Report
 Welcome to intaves issue-tracer.
 Please describe your problem and fill in the requested information.
 

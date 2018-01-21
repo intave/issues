@@ -1,21 +1,21 @@
-##Issue Report
+  Issue Report
 Welcome to intaves issue-tracer.
 Please describe your problem and fill in the requested information.
 
----
- *Issue: [Please describe your problem]
----
-
----
+>
+ !Issue: [Please describe your problem]
+>
+ 
+>
  Error Logs / Links
----
+>
 
----
-*Intave version: [/intave version, /intave]
-*Server version: [/version]
-Plugin list: [/plugins]
-Server ip and port:
----
+>
+ !Intave version: [/intave version, /intave]
+ !Server version: [/version]
+ Plugin list: [/plugins]
+ Server ip and port: [ip]
+>
 
 *Required
 

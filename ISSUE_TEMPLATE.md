@@ -13,7 +13,7 @@ Please describe your problem and fill in the requested information.
 
 **Server version**: [/version]
 
-**Plugin list**: [/plugins]
+**Plugin list**: [/plugins (If you don't want to provide your plugin list, you can leave it empty)]
 
 **Server ip and port**: [ip]
 

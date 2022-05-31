@@ -17,9 +17,10 @@ Make sure there are no misunderstandings here, best if you have a video for us.
 
 **What's the context the issue occurs in?**
 Run "/intave diagnostics environment" and paste the result here.
+If you are not the administrative authority of the network, leave this blank.
 
 **How can we reproduce it?**
-Not necessary if the issue is obvious to reproduce.
+This section is not necessary if the issue is obvious to reproduce.
 
 **Do you have it recorded?**
 Record and upload the issue, and post the YouTube link here.

@@ -6,12 +6,10 @@ labels: false-positive
 assignees: DarkAndBlue, Jpx3, ventolotl
 
 ---
-
-*Is Intave really the issue?*
-In 40% of issues received, Intave was not the root cause.
-Make sure to recreate the problem in continuously simpler environments until you can
-confirm beyond any reasonable doubt that Intave is the problem.
-Even if Intave is not the problem, please let us know in the issue.
+Note:
+In about 40% of issues received, Intave was not the root cause.
+Make absolutely sure to recreate the problem in continuously simpler environments
+until you can confirm beyond any reasonable doubt that Intave is the problem.
 
 **What is the problem?**
 A clear and concise description of what the bug is.

@@ -19,3 +19,10 @@ Not necessary if the issue is obvious to reproduce.
 
 **Do you have it recorded?**
 Record and upload the issue, and post the YouTube link here.
+
+**External references**
+In case you are not the administrative authority of the network,
+you can forward debugging information provided by those.
+<br>
+This includes: 
+- "/whereami", "/wai" or replay codes on GommeHD.net

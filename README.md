@@ -1,4 +1,3 @@
-# Intave Issue Tracker (intave/issues)
 Use this github repository to issue bug reports on Intave.
 
 ## When to use an issue tracker
